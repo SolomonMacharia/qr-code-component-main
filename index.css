@@ -27,7 +27,6 @@ body {
     padding: 0;
     margin-bottom: 1rem;
     border-radius: 6px;
-    background-image: url(./images/image-qr-code.png);
     background-size: cover;
     background-position: center;
 }
