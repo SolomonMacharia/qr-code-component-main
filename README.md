@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [github](https://github.com/SolomonMacharia/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://solomonmacharia.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -45,7 +45,5 @@ Properly centering a div using css.
 ```
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@SolomonMacharia](https://www.frontendmentor.io/profile/SolomonMacharia)
 - Twitter - [@Solomon Macharia](https://x.com/Masharia__254)
